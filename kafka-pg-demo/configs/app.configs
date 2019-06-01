@@ -1,0 +1,6 @@
+topic.name=kafka-pg-demo
+kafka.producer.properties=configs/kafka.producer.properties
+kafka.consumer.properties=configs/kafka.consumer.properties
+data.file.location=data/NSE05NOV2018BHAV.csv
+pg.configs=configs/pgsql.configs
+pg.table=stock_data

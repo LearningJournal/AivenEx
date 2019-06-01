@@ -1,0 +1,3 @@
+jdbc.url=jdbc:postgresql://pg-prashant-prashantkumarpandey-8efd.aivencloud.com:19186/kafka-pg-demo?sslmode=require
+user=prashant
+password=secret
