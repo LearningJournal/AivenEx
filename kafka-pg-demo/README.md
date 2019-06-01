@@ -2,7 +2,7 @@
   
 # Kafka Demo Application for Aiven.IO Platform
 
- This project is a demo application for a Kafka Producer and Consumer.    
+This project is a demo application for a Kafka Producer and Consumer.    
 This demo application demonstrates the following.    
 1. Kafka Producer - *DemoProducer* reads *StockData* from CSV file and sends them to Kafka Topic as JSON.    
 2. Kafka Consumer - *DemoConsumer* reads JSON StockData from Kafka Topic and sends them to PostgreSQL Database table *stock_data*.     
